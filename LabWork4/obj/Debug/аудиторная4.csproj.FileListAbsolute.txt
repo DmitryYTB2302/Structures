@@ -1,0 +1,52 @@
+C:\Users\darya\source\repos\аудиторная4\bin\Debug\аудиторная4.exe.config
+C:\Users\darya\source\repos\аудиторная4\bin\Debug\аудиторная4.exe
+C:\Users\darya\source\repos\аудиторная4\bin\Debug\аудиторная4.pdb
+C:\Users\darya\source\repos\аудиторная4\obj\Debug\аудиторная4.csproj.AssemblyReference.cache
+C:\Users\darya\source\repos\аудиторная4\obj\Debug\аудиторная4.Form1.resources
+C:\Users\darya\source\repos\аудиторная4\obj\Debug\аудиторная4.Properties.Resources.resources
+C:\Users\darya\source\repos\аудиторная4\obj\Debug\аудиторная4.csproj.GenerateResource.cache
+C:\Users\darya\source\repos\аудиторная4\obj\Debug\аудиторная4.csproj.CoreCompileInputs.cache
+C:\Users\darya\source\repos\аудиторная4\obj\Debug\аудиторная4.exe
+C:\Users\darya\source\repos\аудиторная4\obj\Debug\аудиторная4.pdb
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\bin\Debug\аудиторная4.exe.config
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\bin\Debug\аудиторная4.exe
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\bin\Debug\аудиторная4.pdb
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.csproj.AssemblyReference.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.Form1.resources
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.Properties.Resources.resources
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.csproj.GenerateResource.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.csproj.CoreCompileInputs.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.exe
+D:\Учеба\Технология программирования\Лабораторная работа\laba_4ya\аудиторная4\obj\Debug\аудиторная4.pdb
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\bin\Debug\аудиторная4.exe.config
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\bin\Debug\аудиторная4.exe
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\bin\Debug\аудиторная4.pdb
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\obj\Debug\аудиторная4.csproj.AssemblyReference.cache
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\obj\Debug\аудиторная4.Form1.resources
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\obj\Debug\аудиторная4.Properties.Resources.resources
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\obj\Debug\аудиторная4.csproj.GenerateResource.cache
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\obj\Debug\аудиторная4.csproj.CoreCompileInputs.cache
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\obj\Debug\аудиторная4.exe
+C:\Users\doshu\Desktop\laba_4ya\аудиторная4\obj\Debug\аудиторная4.pdb
+F:\laba_4ya сам\аудиторная4 сам\bin\Debug\аудиторная4.exe.config
+F:\laba_4ya сам\аудиторная4 сам\bin\Debug\аудиторная4.exe
+F:\laba_4ya сам\аудиторная4 сам\bin\Debug\аудиторная4.pdb
+F:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.csproj.AssemblyReference.cache
+F:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.Form1.resources
+F:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.Properties.Resources.resources
+F:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.csproj.GenerateResource.cache
+F:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.csproj.CoreCompileInputs.cache
+F:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.exe
+F:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.pdb
+E:\laba_4ya сам\аудиторная4 сам\bin\Debug\аудиторная4.exe.config
+E:\laba_4ya сам\аудиторная4 сам\bin\Debug\аудиторная4.exe
+E:\laba_4ya сам\аудиторная4 сам\bin\Debug\аудиторная4.pdb
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.csproj.AssemblyReference.cache
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.csproj.SuggestedBindingRedirects.cache
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.Form1.resources
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.Properties.Resources.resources
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.csproj.GenerateResource.cache
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.csproj.CoreCompileInputs.cache
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.exe
+E:\laba_4ya сам\аудиторная4 сам\obj\Debug\аудиторная4.pdb
